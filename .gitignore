@@ -3,6 +3,6 @@ SCRIBBLE
 *.egg
 *.log
 *.exe
-*.html
 release.cmd
 builds/
+.local/
